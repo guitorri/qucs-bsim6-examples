@@ -9,6 +9,7 @@ There are five benchmark circuits for the BSIM 6.1.0.
 
 A modified version of Qucs is required to run this examples.
 See: 
+  https://github.com/Qucs/qucs/pull/322
   
 
 - Description of files in each project:
