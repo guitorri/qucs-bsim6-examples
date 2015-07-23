@@ -4,7 +4,7 @@
 * - PMOS card was sed to UPPERCASE, qucsconv cannot map the paramter names otherwise
 *
 
-.model nmos NMOS LEVEL=6 VERSION=6.10
+.model nmos NMOS LEVEL=6 VERSION=1.0
 +LLONG =2E-06
 +WWIDE =1E-05
 +TYPE =1
@@ -213,7 +213,7 @@
 +VSATLEXP=0.00033
 
 
-.model pmos PMOS LEVEL=6 VERSION=6.10
+.model pmos PMOS LEVEL=6 VERSION=1.0
 +TOXE    = 2.34E-009
 +TOXP    = 1.925E-009
 +DTOX    = 0
